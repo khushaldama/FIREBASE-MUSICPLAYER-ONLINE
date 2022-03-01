@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "77069581857",
+    "project_id": "online-music-player-5bf96",
+    "storage_bucket": "online-music-player-5bf96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77069581857:android:a3b02e68aac8ba2b502d60",
+        "android_client_info": {
+          "package_name": "com.khushal.onlinemusicapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77069581857-hdiltksr667o2eftqsk9c73al9lsok4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4uEwZXPRh8Kj4o6LKg5bbPe2ZpYozfbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77069581857-hdiltksr667o2eftqsk9c73al9lsok4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
